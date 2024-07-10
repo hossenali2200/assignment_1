@@ -100,6 +100,8 @@
     height: 48px;
 }
 
+/* inspiration section css */
+
 .inspiration{
     Width: 1140px;
     Height: 777px;
@@ -109,15 +111,28 @@
      
 }
 
+/* target section css */
+
 .target{
     Width: 1140px;
     Height: 777px;
     margin-left: 148px;
     margin-top: 64px;
-    margin-bottom: 120px;
+    
 }
 
 .text{
     width: 364px;
     height: 300px;
+}
+
+.submit{
+    background-image: url(./assets/handshake.jpg);
+    width: 1140px;
+    height: 314px;
+    margin-left: 148px;
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     padding: 48px 64px 48px 64px;
 }
