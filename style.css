@@ -136,3 +136,18 @@
      background-repeat: no-repeat;
      padding: 48px 64px 48px 64px;
 }
+#footer{
+    
+    background-color: rgba(13, 19, 33, 0.03);
+}
+
+.foot{
+    display: flex;
+    justify-content: space-between;
+    margin: 90px;
+    padding: 16px;
+}
+.foot img{
+    width: 38px;
+    margin-left: 20px;
+}
