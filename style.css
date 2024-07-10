@@ -105,5 +105,19 @@
     Height: 777px;
     margin-left: 148px;
     margin-top: 64px;
+    margin-bottom: 120px;
      
+}
+
+.target{
+    Width: 1140px;
+    Height: 777px;
+    margin-left: 148px;
+    margin-top: 64px;
+    margin-bottom: 120px;
+}
+
+.text{
+    width: 364px;
+    height: 300px;
 }
