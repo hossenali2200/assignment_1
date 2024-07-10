@@ -11,8 +11,10 @@
      justify-content: space-between;
 }
 
+/* hero section css */
+
 .hero{
-    width: 1440px;
+    width: full;
     height: 652px;
      background-image: url('./assets/Hero-bg.png');
      background-position: center;
@@ -58,4 +60,43 @@
 .hero a{
     text-decoration: none;
     color: white;
+}
+
+/* detail section css */
+
+.detail{
+    background-color: rgba(13, 19, 33, 0.02);
+    Width: 1140px;
+    Height: 1395px;
+    
+     padding: 80px 97px;
+      
+    
+     
+    margin-left: 148px;
+    margin-top: 64px;
+ 
+}
+
+.details{
+     
+    Width: 946px;
+    Height: 1235px;
+     
+    
+ 
+}
+
+.blog{
+     
+  
+  background-image: linear-gradient(rgb(255, 255, 255),
+  rgba(255, 255, 255, 0));
+  display: flex;
+  border-radius: 16px;
+}
+
+.details button{
+    width: 150px;
+    height: 48px;
 }
