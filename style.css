@@ -69,10 +69,7 @@
     Width: 1140px;
     Height: 1395px;
     
-     padding: 80px 97px;
-      
-    
-     
+    padding: 80px 97px;
     margin-left: 148px;
     margin-top: 64px;
  
@@ -82,6 +79,7 @@
      
     Width: 946px;
     Height: 1235px;
+    
      
     
  
@@ -94,9 +92,18 @@
   rgba(255, 255, 255, 0));
   display: flex;
   border-radius: 16px;
+  margin-bottom: 32px;
 }
 
 .details button{
     width: 150px;
     height: 48px;
+}
+
+.inspiration{
+    Width: 1140px;
+    Height: 777px;
+    margin-left: 148px;
+    margin-top: 64px;
+     
 }
